@@ -1,0 +1,28 @@
+
+
+footer {
+    background-color:black;
+    color:white;
+}
+
+.card{
+    background-color: rgb(54, 52, 49);
+    color: white;
+
+
+}
+
+.name-nav{
+    background-color: white;
+    padding: 10px;
+
+}
+
+.block-header{
+
+    color:black;
+}
+
+#right{
+    float:right;
+}
