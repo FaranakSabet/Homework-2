@@ -81,7 +81,7 @@ body{
 
     background-color:black;
     color:white;
-     position: absolute;  
+    position: absolute;  
     bottom: 5;
     width: 100vw;
     margin-top: 15px;
@@ -114,7 +114,15 @@ body{
 .navbar{
 
     margin-bottom: 100px;
-    
-  
+}
 
+#socialMediaIcons{
+ position: relative;
+ left:700px;
+
+
+}
+
+#social-media-icons ul{
+    padding-top: 20px;
 }
