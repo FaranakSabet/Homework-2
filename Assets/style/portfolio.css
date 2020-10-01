@@ -1,16 +1,10 @@
-
-
-
- body {
+body {
   background: rgb(54, 52, 49);
   color: white;
   font-family: sans-serif;
   font-size: 1.2rem;
   line-height: 1.45;
-} 
-
-
-
+}
 
 .sidebar {
   /* background-color:White; */
@@ -22,19 +16,19 @@
 .logo {
   text-transform: uppercase;
   margin-bottom: 2em;
-  color:black;
-  
+  color: black;
+
   @media (min-width: 1500px) {
     margin-bottom: 5em;
   }
 }
 
-  span {
-    font-weight: bold;
-  }
+span {
+  font-weight: bold;
+}
 
 .nav-item {
-  color:black;
+  color: black;
   text-decoration: none;
   font-size: 18px;
   display: inline-block;
@@ -44,16 +38,15 @@
     margin: 7vh 0;
   }
 }
-  .active {
-    color:blue;
-  }
+.active {
+  color: blue;
+}
 
 .main-content {
   padding: 5%;
   flex: 1 1 80%;
-   /* min-height: 100vh;  */
-  background-color: rgb(54, 52, 49);;
-
+  /* min-height: 100vh;  */
+  background-color: rgb(54, 52, 49);
 }
 
 .portfolio {
@@ -71,7 +64,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
   /* // Refractored the code a little from the video.
   // Moved these from the .two, thought it made
   // more sense like this. */
@@ -82,60 +75,53 @@
   position: relative;
   z-index: 10;
 }
-  
-  .small {
-    background-color:#D3D3D3;
-    color: black;
-    grid-row: span 1;
-    grid-column: span 1;
-    height:30px;
-    
 
-  }
-  
-  .medium {
-    background-color: #C0C0C0;
-    color: black;
-    grid-row: span 2;
-    grid-column: span 2;
-  }
-  
-  .large {
-    background-color:#DCDCDC;
-    color: black;
-    grid-row: span 3;
-    grid-column: span 3;
-  }
-  
-  .tall {
-    background-color: #808080;
-    grid-row: span 3;
-    grid-column: span 2;
-   
-  }
-  
-  .wide {
-    background-color: #696969;
-    grid-row: span 2;
-    grid-column: span 3;
-  }
+.small {
+  background-color: #d3d3d3;
+  color: black;
+  grid-row: span 1;
+  grid-column: span 1;
+  height: 30px;
+}
+
+.medium {
+  background-color: #c0c0c0;
+  color: black;
+  grid-row: span 2;
+  grid-column: span 2;
+}
+
+.large {
+  background-color: #dcdcdc;
+  color: black;
+  grid-row: span 3;
+  grid-column: span 3;
+}
+
+.tall {
+  background-color: #808080;
+  grid-row: span 3;
+  grid-column: span 2;
+}
+
+.wide {
+  background-color: #696969;
+  grid-row: span 2;
+  grid-column: span 3;
+}
 
 .two {
   background-color: Wwhite;
-  background-image: url(//unsplash.it/800/600);
-  
+  /* background-image: url(//unsplash.it/800/600); */
 }
 
-.footer{
-
+.footer {
   background-color: black;
-  color:white;
+  color: white;
   position: absolute;
   bottom: 5;
   width: 100vw;
   margin-top: 15px;
   text-align: center;
-  margin:15px;
-  
+  margin: 15px;
 }
-
