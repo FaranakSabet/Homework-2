@@ -15,5 +15,3 @@ https://faranaksabet.github.io/Responsive-Portfolio/
 ![](Assets/images/Portfolio.PNG)
 
 ![](Assets/images/Contact.PNG)
-
-![Capture](https://user-images.githubusercontent.com/65681350/94973349-4bfc7400-04c0-11eb-8f98-26665bd9f296.PNG)
