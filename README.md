@@ -10,8 +10,10 @@ link of deployed application:
 
 https://faranaksabet.github.io/Responsive-Portfolio/
 
-![](Assets/images/About.PNG)
 
-![](Assets/images/Portfolio.PNG)
+![About](https://user-images.githubusercontent.com/65681350/94981787-f1780d80-04e9-11eb-8878-020753816946.PNG)
 
-![](Assets/images/Contact.PNG)
+![Capture2](https://user-images.githubusercontent.com/65681350/94981790-f5a42b00-04e9-11eb-85df-fd17dee32330.PNG)
+
+![Contact](https://user-images.githubusercontent.com/65681350/94981793-f937b200-04e9-11eb-9032-b568070d83c0.PNG)
+
